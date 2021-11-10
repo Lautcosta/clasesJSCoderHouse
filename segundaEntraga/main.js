@@ -5,6 +5,7 @@ boton.addEventListener('click', eventoclick)
 //Declaracion de array vacio 
 let peliculas = [];
 
+
 //Funcion para mostrar el array con la informacion que ingresa el usuario
 function eventoclick (){ 
 
