@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(49, 45, 45);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#hseis{
+    border-radius: 15px;
+    display: none;
+    position: fixed;
+    right: 10px;
+    top: 100px;
+}
